@@ -163,6 +163,7 @@ return [
         Illuminate\View\ViewServiceProvider::class,
         Intervention\Image\ImageServiceProvider::class,
         Laraveles\Spanish\SpanishServiceProvider::class,
+        Askedio\SoftCascade\Providers\GenericServiceProvider::class,
 
         /*
          * Package Service Providers...
